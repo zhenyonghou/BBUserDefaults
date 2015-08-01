@@ -1,5 +1,9 @@
 # BBUserDefaults
 
+
+Multiple users for NSUserDefaults
+
+
 使用苹果提供的NSUserDefaults类可方便的存取用户信息数据，然而，App往往支持多个用户间
 切换，当NSUserDefaults遇到多用户切换，解决起来就稍稍不那么完美。
 
